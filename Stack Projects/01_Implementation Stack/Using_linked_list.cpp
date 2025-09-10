@@ -71,4 +71,5 @@ int  main () {
 // 30 is inserted
 // Stack elements (top to bottom): 30 40 30 20 10
 // Stack elements (top to bottom): 40 30 20 10
+
 // Front element: 40
